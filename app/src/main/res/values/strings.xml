@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoctorsApp</string>
+    <string-array name="Category">
+        <item>Normal</item>
+        <item>Emergency</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_fragment">DoctorsApp</string>
+    <string name="title_activity_patient_details">PatientDetails</string>
+    <string name="title_activity_patient_get_details">PatientGetDetails</string>
+    <string name="title_activity_communicate">Messages</string>
+</resources>
